@@ -1,0 +1,3 @@
+#define FCY 2000000
+#define BAUDRATE 9600
+#define BRGVAL ((FCY/BAUDRATE)/16)-1
